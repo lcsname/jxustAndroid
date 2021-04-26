@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">your name</string>
+    <string name="logo_name">Bird</string>
+
+    <string name="table_1">姓名</string>
+    <string name="table_2">年龄</string>
+    <string name="table_3">职位</string>
+
+
+</resources>

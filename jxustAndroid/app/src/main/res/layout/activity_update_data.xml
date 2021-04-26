@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/update_data_page">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="140dp">
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:text="ID" />
+        <TextView
+            android:id="@+id/update_et_0"
+            android:layout_width="270dp"
+            android:layout_height="60dp"
+            android:maxLength="10"
+            android:maxLines="1"
+            android:textSize="30dp"
+            android:textColor="#FF0000"
+            android:text="1"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        >
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:text="@string/table_1"/>
+        <EditText
+            android:id="@+id/update_et_1"
+            android:layout_width="270dp"
+            android:layout_height="60dp"
+            android:maxLength="10"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:text="@string/table_2"/>
+        <EditText
+            android:id="@+id/update_et_2"
+            android:layout_width="270dp"
+            android:layout_height="60dp"
+            android:maxLength="10"
+            android:maxLines="1"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="8dp">
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:text="@string/table_3" />
+        <EditText
+            android:id="@+id/update_et_3"
+            android:layout_width="270dp"
+            android:layout_height="60dp"
+            android:maxLength="10"
+            android:maxLines="1"
+            android:textAlignment="center"/>
+
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/update_data"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:textColor="#FFFFFF"
+        android:text="确&#160;认&#160;&#160;更&#160;新"
+
+        />
+</LinearLayout>

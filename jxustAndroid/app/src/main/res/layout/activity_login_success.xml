@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/login_success_page"
+    >
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:textSize="30sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:textColor="#FF0000"
+        android:text="登 录 成 功"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="50dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginLeft="50dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/user" />
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/show_text"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:textColor="@color/white"
+            android:text="账号: 123\n密码: 123\n性别:女"
+            android:textSize="20sp"
+            />
+    </LinearLayout>
+
+
+    <Button
+        android:id="@+id/btn_sql"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:textSize="18sp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:textColor="#FFFFFF"
+        android:text="数&#160;据&#160;库&#160;操&#160;作"
+        />
+</LinearLayout>
