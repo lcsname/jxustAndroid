@@ -12,7 +12,7 @@
 
 1. 更换logo（非常重要）
 
-   ![1619401904181](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619401904181.png)
+   ![image](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619401904181.png)
 
 2. 更换文字（非常重要）
 
