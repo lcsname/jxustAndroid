@@ -12,17 +12,17 @@
 
 1. 更换logo（非常重要）
 
-   ![image](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619401904181.png)
+   ![1619401904181](assets/1619401904181-1619408969924.png)
 
 2. 更换文字（非常重要）
 
-   ![1619402211529](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619402211529.png)
+   ![1619402211529](assets/1619402211529-1619408969924.png)
 
 3. 换颜色
 
    > 这里只是换背景颜色,要详细更改,需要自己到layout对每个页面更改
 
-   ![1619402370725](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619402370725.png)
+   ![1619402370725](assets/1619402370725.png)
 
 4. 换名字(次要)
 
@@ -30,7 +30,7 @@
    >
    > 注: 一定要用IDE（Android Studio）来改名
 
-   ![1619402482218](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619402482218.png)
+   ![1619402482218](assets/1619402482218.png)
 
 5. 其他
 
@@ -48,11 +48,11 @@
 
    > 登录和注册选一个写就OK了
 
-   ![1619403344571](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619403344571.png)
+   ![1619403344571](assets/1619403344571.png)
 
 2. 效果图
 
-   ![1619403506456](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619403506456.png)
+   ![1619403506456](assets/1619403506456.png)
 
 
 
@@ -60,11 +60,11 @@
 
 1. 前言
 
-   ![1619403693655](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619403693655.png)
+   ![1619403693655](assets/1619403693655.png)
 
 2. 效果图
 
-   ![1619403899671](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619403899671.png)
+   ![1619403899671](assets/1619403899671.png)
 
    
 
@@ -72,30 +72,30 @@
 
 1. 前言
 
-   ![1619404086819](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619404086819.png)
+   ![1619404086819](assets/1619404086819.png)
 
-   ![1619404209491](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619404209491.png)
+   ![1619404209491](assets/1619404209491.png)
 
-   ![1619404300269](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619404300269.png)
+   ![1619404300269](assets/1619404300269.png)
 
    
 
 2. 效果图
 
-   ![1619404926283](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619404926283.png)
+   ![1619404926283](assets/1619404926283-1619408969925.png)
 
    
 
-   ![1619405573819](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619405573819.png)
+   ![1619405573819](assets/1619405573819.png)
 
    ## 实验四
 
    1. 前言
 
-      ![1619405137150](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619405137150.png)
+      ![1619405137150](assets/1619405137150-1619408969926.png)
 
    2. 效果图
 
-      ![1619405357856](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619405357856.png)![1619405441237](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619405441237.png)
+      ![1619405357856](assets/1619405357856-1619408969926.png)![1619405441237](assets/1619405441237-1619408969926.png)
 
-![1619405491609](C:\Users\不一样的\AppData\Roaming\Typora\typora-user-images\1619405491609.png)
+![1619405491609](assets/1619405491609-1619408969926.png)
